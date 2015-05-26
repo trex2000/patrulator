@@ -18,5 +18,9 @@
   "homepage": "https://github.com/trex2000/patrulator",
   "devDependencies": {
     "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "serialport": "^1.7.1",
+    "socket.io": "^1.3.5"
   }
 }
