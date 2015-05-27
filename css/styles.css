@@ -1,0 +1,11 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#serialport-list { list-style-type: none; margin: 0; padding: 0; }
+#serialport-list li { padding: 5px 10px; }
+#serialport-list li:nth-child(odd) { background: #eee; }
+#socketio-list { list-style-type: none; margin: 0; padding: 0; }
+#socketio-list li { padding: 5px 10px; }
+#socketio-list li:nth-child(odd) { background: #aaa; }
