@@ -1,2 +1,2 @@
 # patrulator
-The secret
+Source code for patrulator proxy.
