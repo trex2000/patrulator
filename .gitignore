@@ -1,2 +1,4 @@
-node_modules
+# NodeJs module files
+node_modules/
+# Generated output file
 app.nw
